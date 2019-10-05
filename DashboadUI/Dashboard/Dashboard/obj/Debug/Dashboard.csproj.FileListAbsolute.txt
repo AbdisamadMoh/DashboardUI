@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+c:\users\user\documents\visual studio 2015\Projects\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+c:\users\user\documents\visual studio 2015\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.BeautyForm.resources
+c:\users\user\documents\visual studio 2015\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+c:\users\user\documents\visual studio 2015\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+c:\users\user\documents\visual studio 2015\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.Card.resources
+c:\users\user\documents\visual studio 2015\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.Menu.resources
+c:\users\user\documents\visual studio 2015\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
