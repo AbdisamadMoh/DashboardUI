@@ -1,5 +1,5 @@
 # DashboardUI
-Beautiful Dashboard with no dependencies, completely written in C#
+Beautiful Dashboard for windows form with no dependencies, completely written in C#
 
 ![Alt text](https://github.com/AbdisamadMoh/DashboardUI/blob/master/DashboadUI/scr1PNG.PNG?raw=true "")
 ![Alt text](https://github.com/AbdisamadMoh/DashboardUI/blob/master/DashboadUI/scr2.PNG?raw=true "")
