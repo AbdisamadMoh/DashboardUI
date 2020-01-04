@@ -18,16 +18,11 @@ namespace Dashboard
             InitializeComponent();
         }
 
-        bool isPainted = false;
         protected override void OnPaint(PaintEventArgs e)
         {
-            if (!isPainted)
-            {
-                GraphicsPath path = RoundedRectangle.Create(this.ClientRectangle, 5, RoundedRectangle.RectangleCorners.All);
+            GraphicsPath path = RoundedRectangle.Create(this.ClientRectangle, 5, RoundedRectangle.RectangleCorners.All);
 
-                this.Region = new Region(path);
-                isPainted = true;
-            }
+            this.Region = new Region(path);
             base.OnPaint(e);
         }
         private void Card_Load(object sender, EventArgs e)
