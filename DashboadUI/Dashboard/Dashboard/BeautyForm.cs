@@ -38,16 +38,11 @@ namespace Dashboard
 
 
         //Making form rounded by radius of 5
-        bool isPainted = false;
         protected override void OnPaint(PaintEventArgs e)
         {
-            if (!isPainted)
-            {
-                GraphicsPath path = RoundedRectangle.Create(this.ClientRectangle, 5, RoundedRectangle.RectangleCorners.All);
-
-                this.Region = new Region(path);
-                isPainted = true;
-            }
+            GraphicsPath path = RoundedRectangle.Create(this.ClientRectangle, 5, RoundedRectangle.RectangleCorners.All);
+            this.Region = new Region(path);
+            
             base.OnPaint(e);
         }
         private void BeautyForm_Load(object sender, EventArgs e)
